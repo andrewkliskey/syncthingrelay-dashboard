@@ -9,8 +9,8 @@ Just change the IP in main.js
 
 Desktop View:
 
-![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/desktop-image.png)
+![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/desktop-image1.png)
 
 Mobile View:
 
-![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/mobile-image.png)
+![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/mobile-image1.png)
