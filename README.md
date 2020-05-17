@@ -1,9 +1,10 @@
 # syncthingrelay-dashboard
-Syncthing Repo:[Syncthing Link](https://github.com/syncthing)
+
+Syncthing Repo: [https://github.com/syncthing](https://github.com/syncthing)
 
 SyncThing Relay Website Dashboard with Stats
 
-A frontpage website for your SyncThing Relay
+A frontpage website for your Syncthing Relay
 
 Using the status api on port 22070.
 
