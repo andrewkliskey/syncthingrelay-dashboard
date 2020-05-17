@@ -1,11 +1,15 @@
 # syncthingrelay-dashboard
-SyncThing Relay Website Dashboard with Stats
 
-A frontpage website for your SyncThing Relay
+Syncthing Repo: [https://github.com/syncthing](https://github.com/syncthing)
+
+SyncThing Relay, Frontpage/Dashboard
+
+
 
 Using the status api on port 22070.
 
 Just change the IP in main.js
+
 
 Desktop View:
 
