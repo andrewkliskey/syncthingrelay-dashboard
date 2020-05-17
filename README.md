@@ -1,4 +1,6 @@
 # syncthingrelay-dashboard
+Syncthing Repo:[Syncthing Link](https://github.com/syncthing)
+
 SyncThing Relay Website Dashboard with Stats
 
 A frontpage website for your SyncThing Relay
