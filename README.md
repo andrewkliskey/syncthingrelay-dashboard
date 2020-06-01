@@ -14,7 +14,7 @@ Setup with GitHub Pages:
 
 Desktop View:
 
-![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/desktop-image1.png)
+![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/desktop-image1.jpg)
 
 Mobile View:
 
