@@ -1,14 +1,15 @@
 # syncthingrelay-dashboard
 
-Syncthing Repo: [https://github.com/syncthing](https://github.com/syncthing)
-
-SyncThing Relay, Frontpage/Dashboard
+SyncThing Relay Dashboard - Using the API on the default port of 22070 (Can be changed)
 
 
+Setup with GitHub Pages:
+1) Fork Repo
+2) Edit the IP in main.js to your desired syncthing relay
+3) Edit the index.html to match your server
+4) Hit settings in GitHub and turn on GitHub Pages!
 
-Using the status api on port 22070.
 
-Just change the IP in main.js
 
 
 Desktop View:
