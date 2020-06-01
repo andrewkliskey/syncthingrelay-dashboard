@@ -1,10 +1,6 @@
 # syncthingrelay-dashboard
 
-Syncthing Repo: [https://github.com/syncthing](https://github.com/syncthing)
-
-SyncThing Relay Dashboard
-
-Using the status api on port 22070.
+SyncThing Relay Dashboard - Using the API on the default port of 22070 (Can be changed)
 
 
 Setup with GitHub Pages:
