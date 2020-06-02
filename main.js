@@ -15,6 +15,6 @@ var oReq = new XMLHttpRequest();
 // Fire callback on load event
 oReq.addEventListener("load", reqListener);
 // Create the connection to our API
-oReq.open("GET", "http://88.198.198.45:22070/status");
+oReq.open("GET", "http://159.69.16.49:22070/status");
 // Fire the request
 oReq.send();
