@@ -19,10 +19,7 @@ This is due to there being no certificate on the Syncthing API.
 If you find a solution, please contact me or submit a pull request :)
 
 
-Desktop View:
+Screenshot:
 
 ![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/desktop-image1.jpg)
 
-Mobile View:
-
-![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/mobile-image1.png)
