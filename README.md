@@ -1,5 +1,5 @@
 # Syncthing Relay Dashboard
-Demo: [relay.nodata.me](http://relay.nodata.me)
+
 
 
 A modern and easily readable dashboard and frontpage for your Syncthing relay.
