@@ -21,5 +21,5 @@ If you find a solution, please contact me or submit a pull request :)
 
 Screenshot:
 
-![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/desktop-image1.jpg)
+![Example image](https://github.com/andrewkliskey/syncthingrelay-dashboard/raw/master/desktop-image1.png)
 
