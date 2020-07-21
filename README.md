@@ -16,7 +16,7 @@ The API is queried client side, with JavaScript.
 HTTPS Issue:
 Please note that unfortunately https does not currently work.
 This is due to there being no certificate on the Syncthing API.
-If you find a solution, please contact me or submit a pull request :)
+To fix this you will need to add a certificate to the Syncthing API, this can be done with a Reverse Proxy and Lets Encrypt.
 
 
 Screenshot:
